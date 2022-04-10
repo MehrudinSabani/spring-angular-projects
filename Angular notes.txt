@@ -1,0 +1,6 @@
+installing pagination on angular can be acomplished with 
+ng add @angular/localize
+and than install ngbootstrap
+npm install @ng-bootstrap/ng-bootstrap 
+and import it as :
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';

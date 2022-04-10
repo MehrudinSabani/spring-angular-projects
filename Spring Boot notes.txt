@@ -1,0 +1,1 @@
+@RequestMapping is only specified when there is a @RestController anotation
